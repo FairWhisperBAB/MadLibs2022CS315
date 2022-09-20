@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mad Libs2022CS315</string>
+
+    <string name="instructions_text">Fill in the Blanks</string>
+    <string name="finished_button">MAD LIB!!</string>
+
+    <string name="text_box_Name">Name:</string>
+    <string name="text_box_Adjective">Adjective:</string>
+    <string name="text_box_Verb">Verb:</string>
+    <string name="text_box_Silly_Word">Silly Word:</string>
+    <string name="text_box_Noun">Noun:</string>
+    <string name="text_box_Noun_plural">Noun (Plural):</string>
+    <string name="text_box_Verb_endingInED">Verb Ending in "ED":</string>
+    <string name="text_box_Noun2">Noun:</string>
+    <string name="text_box_Noun3">Noun:</string>
+    <string name="text_box_Verb_endingInED2">Verb Ending in "ED":</string>
+    <string name="text_box_Adjective2">Adjective:</string>
+
+    <string name="prompt_1">Darth</string>
+    <string name="prompt_2">looked at his master while his</string>
+    <string name="prompt_3">breathing filled the room. He was told to go to</string>
+    <string name="prompt_4">everything on the planet of</string>
+    <string name="prompt_5">He got in his</string>
+    <string name="prompt_6">and jumped to hyperspace. Soon before he reached the planet, he dropped out of hyperspace and was attacked by Rebel</string>
+    <string name="prompt_8">He</string>
+    <string name="prompt_9">them off and continued to the planet`s surface. He landed and confronted more opposition, slicing it down with his</string>
+    <string name="prompt_11">He used the</string>
+    <string name="prompt_12">to choke another Rebel, then</string>
+    <string name="prompt_13">him aside. He finished off all life on the planet with a/an</string>
+    <string name="prompt_14">laugh!</string>
+
+</resources>
