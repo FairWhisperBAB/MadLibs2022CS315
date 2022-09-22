@@ -28,28 +28,8 @@ public class MadLibActivity extends AppCompatActivity {
 
         // Get the Intent that started this activity and extract the string
         Intent intent = getIntent();
-//        Intent intent2 = getIntent();
-//        Intent intent3 = getIntent();
-//        Intent intent4 = getIntent();
-//        Intent intent5 = getIntent();
-//        Intent intent6 = getIntent();
-//        Intent intent7 = getIntent();
-//        Intent intent8 = getIntent();
-//        Intent intent9 = getIntent();
-//        Intent intent10 = getIntent();
-//        Intent intent11 = getIntent();
 
         String[] messages = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message2 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message3 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message4 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message5 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message6 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message7 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message8 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message9 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message10 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
-//        String message11 = intent.getStringArrayExtra(MainActivity.EXTRA_MESSAGE);
 
         // Capture the layout's TextView and set the string as its text
         textView = findViewById(R.id.name_textbox);
